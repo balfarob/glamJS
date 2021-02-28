@@ -34,3 +34,4 @@ function shoppingCart() {
 
 /// NUEVA INSTANCIAS DE CARRITO ///
 var myShoppingCart = new shoppingCart();
+
