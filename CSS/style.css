@@ -61,4 +61,11 @@ Prueba presentación responsive
   width:100%;
 
 }
-/*prueba*/
+/*
+prueba imagén presentación
+*/
+.circular--square {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
