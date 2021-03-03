@@ -2,7 +2,7 @@ let prodUnias = [{
     "id" : 1,
     "nombre" : "Uñas",
     "color" : "rojo",
-    "precio" : 500
+    "precio" : 30000
 },{
     "id" : 2,
     "nombre" : "Pestañas",
