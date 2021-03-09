@@ -1,16 +1,26 @@
 let prodUnias = [{
-    "id" : 1,
-    "nombre" : "Uñas",
-    "color" : "rojo",
-    "precio" : 30000
+    "id" : uñasdragonrojo,
+    "nombre" : "Uñas dragon",
+    "color" : "rojo guinda",
+    "precio" : 42000
 },{
-    "id" : 2,
-    "nombre" : "Pestañas",
-    "color" : "negro",
-    "precio" : 750
+    "id" : uñasfuegoazul,
+    "nombre" : "Uñas azul fuego",
+    "color" : "azul claro",
+    "precio" : 42000
 },{
-    "id" : 3,
-    "nombre" : "Scrunchie",
-    "color" : "morado",
-    "precio" : 1000
+    "id" : uñascristalesblancas,
+    "nombre" : "Uñas blancas",
+    "color" : "blanco",
+    "precio" : 42000
+},{
+    "id"  : kitpresson,
+    "nombre"  : "kit press on",
+    "color"  : "random",
+    "precio"  : 3000
+},{
+    "id"  :  pegamentoM,
+    "nombre"  : "kit press on",
+    "color"  : "random",
+    "precio"  : 2000
 }]
