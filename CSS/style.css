@@ -20,6 +20,12 @@ El footer
 footer{
   background-color: #A451F3;
 }
+.instagram{
+  text-decoration: none;
+}
+.derechos{
+  text-align: center;
+}
 /*
 las catetgorias en la sección shop
 */
