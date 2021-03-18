@@ -8,9 +8,10 @@ $( document ).ready(function(){
     // element.addEventListeenr('click', funciont(){})
 
     // Acceso con tag element
-    $("button").click(botonPresionado);
-    
-    // Acceso con class name
+    $("button").click(function(){
+        console.log("Buttone pressed")
+    });
+     // Acceso con class name
     $(".btn-sm").click(function (){ 
         console.log("elimino un item");
         $("#cartModal").hide(); // acceso con ID
