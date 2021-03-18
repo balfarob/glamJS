@@ -105,5 +105,13 @@ Este es el modal para el carrito de compras
 .modal-footer {
   padding-top: 0rem;
 }
-
-
+/*Este es el boton del modal del carrito*/
+/*
+#botonmodal {
+  /*style: none;*/
+ /* text-decoration: none;
+  color: hotpink;
+}*/
+a:link{
+  text-decoration: none;
+}
