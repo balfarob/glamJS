@@ -8,11 +8,15 @@ body{
 Este es el color del 1er navbar
   #EBCEFF
 */
+/*Esto corresponde al primer navbar*/
 .nav-pills{
   background-color:#EBCEFF!important;
 }
 .navbar-light{
   background-color: #EBCEFF;
+}
+.boton{
+  text-align: right;
 }
 /*
 El footer
