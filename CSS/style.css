@@ -119,7 +119,7 @@ a:link{
 input {
   width: 100%;
 }
-    /*experimento blog de ww3scholl*/
+    /*el blog*/
     body {
       font-family: Arial;
       padding: 20px;
@@ -139,7 +139,7 @@ input {
       padding-left: 20px;
     }
     
-    /* Fake image */
+    /* Video del blog */
     .fakeimg {
       background-color: #aaa;
       width: 100%;
@@ -148,7 +148,6 @@ input {
     
     /* Add a card effect for articles */
     .card {
-      background-color:#EBCEFF;
       padding: 20px;
       margin-top: 20px;
     }
