@@ -63,48 +63,48 @@
         "assets2" : "./Images/uñapersonalizada10.jpeg"
     },
     {
-        "nombre": "Kit uñas press-on",
+        "nombre": "diseño personalizado de press-on",
         "tipo": "press-on",
         "id": 7,
-        "precio": 3.000,
-        "descripcion":"Set de press-on, las uñas son diseñadas con el diseño que tu quieras. Este set contiene 10 uñas, previamente tus uñitas deben ser medidas. Por la compra de estas press-on te llevas un set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
+        "precio": 40.000,
+        "descripcion":"Set de press-on, las uñas son diseñadas con el diseño que tu quieras. Este set contiene 20 uñas, previamente tus uñitas deben ser medidas. Por la compra de estas press-on te llevas un set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
+        "assets" : "../Images/uñapersonalizada20.jpeg",
+        "assets2" : "./Images/uñapersonalizada20.jpeg"
     },
     {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
+        "nombre": "sombra de ojos it's my pleasure",
+        "tipo": "eyeshadow",
         "id": 8,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
+        "precio": 25.000,
+        "descripcion": "Sombra de ojos, sus tonos son en rosados y morados, son sombras que son reconocidas por su excelente pigmentación",
+        "assets" : "../Images/colourpop(1).jpg",
+        "assets2" : "./Images/colourpop(1).jpg"
     },
     {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
+        "nombre": "sombra de ojos wine & only",
+        "tipo": "eyeshadow",
         "id": 9,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
+        "precio": 25.000,
+        "descripcion": "Sombra de ojos, sus tonos son en color vino y magenta, son sombras que son reconocidas por su excelente pigmentación",
+        "assets" : "../Images/colourpop(2).jpg",
+        "assets2" : "./Images/colourpop(2).jpg"
     },
     {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
+        "nombre": "sombra de ojos big poppy",
+        "tipo": "eyeshadow",
         "id": 10,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
+        "precio": 25.000,
+        "descripcion": "Sombra de ojos, sus tonos son en color duranzo y naranja, son sombras que son reconocidas por su excelente pigmentación",
+        "assets" : "../Images/colourpop(3).jpg",
+        "assets2" : "./Images/colourpop(3).jpg"
     },
     {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
+        "nombre": "sombra de ojos on cloud blue",
+        "tipo": "eyeshadow",
         "id": 11,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
+        "precio": 25.000,
+        "descripcion": "Sombra de ojos, sus tonos son en celeste, son sombras que son reconocidas por su excelente pigmentación",
+        "assets" : "../Images/colourpop(4).jpg",
+        "assets2" : "./Images/colourpop(4).jpg"
    }
 ]
