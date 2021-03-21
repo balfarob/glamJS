@@ -27,18 +27,54 @@
         "assets2" : "./Images/llamas(1).jpeg"
     },
     {
-        "nombre": "Kit uñas press-on",
+        "nombre": "Kit para usar uñas press-on",
         "tipo": "press-on",
         "id": 3,
-        "precio": 2.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "precio": 3.000,
+        "descripcion": "Este kit es para preparar las uñistas, en caso de que no te quede alguna puedes limarla con la lima que viene en el set. Set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
         "assets" : "../Images/kitnails.jpeg",
         "assets2" : "./Images/kitnails.jpeg"
     },
     {   
+        "nombre": "Pegamento de uñas",
+        "tipo": "press-on",
+        "id": 4,
+        "precio": 2.000,
+        "descripcion": "Pegamento para uñas",
+        "assets" : "../Images/pegamento.jpeg",
+        "assets2" : "./Images/pegamento.jpeg"
+    },
+    {
+        "nombre": "Kit de medidas press-on",
+        "tipo": "press-on",
+        "id": 5,
+        "precio": 5.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "diseño personalizado de press-on",
+        "tipo": "press-on",
+        "id": 6,
+        "precio": 30.000,
+        "descripcion": "Set de press-on, las uñas son diseñadas con el diseño que tu quieras. Este set contiene 10 uñas, previamente tus uñitas deben ser medidas. Por la compra de estas press-on te llevas un set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
+        "assets" : "../Images/uñapersonalizada10.jpeg",
+        "assets2" : "./Images/uñapersonalizada10.jpeg"
+    },
+    {
         "nombre": "Kit uñas press-on",
         "tipo": "press-on",
-        "id": 3,
+        "id": 7,
+        "precio": 3.000,
+        "descripcion":"Set de press-on, las uñas son diseñadas con el diseño que tu quieras. Este set contiene 10 uñas, previamente tus uñitas deben ser medidas. Por la compra de estas press-on te llevas un set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 8,
         "precio": 3.000,
         "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
         "assets" : "../Images/kitnails.jpeg",
@@ -47,7 +83,7 @@
     {
         "nombre": "Kit uñas press-on",
         "tipo": "press-on",
-        "id": 3,
+        "id": 9,
         "precio": 3.000,
         "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
         "assets" : "../Images/kitnails.jpeg",
@@ -56,7 +92,7 @@
     {
         "nombre": "Kit uñas press-on",
         "tipo": "press-on",
-        "id": 3,
+        "id": 10,
         "precio": 3.000,
         "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
         "assets" : "../Images/kitnails.jpeg",
@@ -65,43 +101,7 @@
     {
         "nombre": "Kit uñas press-on",
         "tipo": "press-on",
-        "id": 3,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
-    },
-    {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
-        "id": 3,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
-    },
-    {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
-        "id": 3,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
-    },
-    {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
-        "id": 3,
-        "precio": 3.000,
-        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
-        "assets" : "../Images/kitnails.jpeg",
-        "assets2" : "./Images/kitnails.jpeg"
-    },
-    {
-        "nombre": "Kit uñas press-on",
-        "tipo": "press-on",
-        "id": 3,
+        "id": 11,
         "precio": 3.000,
         "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
         "assets" : "../Images/kitnails.jpeg",
