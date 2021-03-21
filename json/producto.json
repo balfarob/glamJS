@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "Uñas con cristales",
+        "tipo": "press-on",
+        "id": 0,
+        "precio": 42.000,
+        "descripcion": "Set de press-on, uñas blancas y pulgar y anular con cristales de color plata. Este set contiene 20 uñas, para qué puedas probar tus medidas en la comodidad de tu casa, de las 20 uñas, 10 deberían quedarte correctas, en caso de que no te quede alguna puedes limarla con la lima que viene en el set. Por la compra de estas press-on te llevas un set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
+        "assets" : "../Images/blanco(5).jpeg",
+        "assets2" : "./Images/blanco(5).jpeg"
+    },
+    {
+        "nombre": "Uñas con dragón",
+        "tipo": "press-on",
+        "id": 1,
+        "precio": 40.000,
+        "descripcion": "Set de press-on, uñas color rojo sandía y anular color blanco con imagen de dragón. Este set contiene 20 uñas, para qué puedas probar tus medidas en la comodidad de tu casa, de las 20 uñas, 10 deberían quedarte correctas, en caso de que no te quede alguna puedes limarla con la lima que viene en el set. Por la compra de estas press-on te llevas un set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
+        "assets" : "../Images/dragon(4).jpeg",
+        "assets2" : "./Images/dragon(4).jpeg"
+    },
+    {
+        "nombre": "Uñas con llamas",
+        "tipo": "press-on",
+        "id": 2,
+        "precio": 42.000,
+        "descripcion": "Set de press-on, uñas color celeste y anular color nude con diseño de llamas. Este set contiene 20 uñas, para qué puedas probar tus medidas en la comodidad de tu casa, de las 20 uñas, 10 deberían quedarte correctas, en caso de que no te quede alguna puedes limarla con la lima que viene en el set. Por la compra de estas press-on te llevas un set de aplicación que incluye: buffer, lima, pegamento, alcohol pad, palito de naranjo y stickers para pegar las uñas, con una duración de no más de 3 días",
+        "assets" : "../Images/llamas(1).jpeg",
+        "assets2" : "./Images/llamas(1).jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 2.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {   
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+    },
+    {
+        "nombre": "Kit uñas press-on",
+        "tipo": "press-on",
+        "id": 3,
+        "precio": 3.000,
+        "descripcion": "Este kit es para saber las medidas correctas de tus uñitas de manera rápida, así evitamos errores en las medidas y puedes medirlas de una manera cómoda",
+        "assets" : "../Images/kitnails.jpeg",
+        "assets2" : "./Images/kitnails.jpeg"
+   }
+]
