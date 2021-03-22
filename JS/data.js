@@ -1,3 +1,4 @@
+/*
 let prodUnias = [{
     "id" : uñasdragonrojo,
     "nombre" : "Uñas dragon",
@@ -24,3 +25,4 @@ let prodUnias = [{
     "color"  : "random",
     "precio"  : 2000
 }]
+*/

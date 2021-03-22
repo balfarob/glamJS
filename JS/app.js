@@ -1,6 +1,3 @@
-/*
-Acceder a la data con fetch API, utilizando AJAX
-*/
-fetch('api.json')
+fetch('https://regres.in/api/users')
   .then( res => res.json())
   .then(data => console.log(data))
