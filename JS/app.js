@@ -5,7 +5,20 @@
 /*Let = fetch('api.json')
 .then( res => res.json())
 .then(datos => console.log(datos))*/
-/*Intento numero 10000*/
+/*Intento de las clases
 $("button").click(funtion(){
-  
-})
+
+})*/
+/*intento 10.000*/
+///tomar productos
+class Products {
+  async getProducts(){
+    try {
+    let result = await fetch("producto.json");
+    let data = await result.json();
+    let products = data.products;
+
+    return products;
+    }
+  }
+}
