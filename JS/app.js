@@ -1,4 +1,4 @@
-Let datos = fetch("producto.json");
+Let = fetch("producto.json");
 ///tomar productos
 class Products {
   async getProducts(){
