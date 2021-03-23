@@ -20,5 +20,8 @@ class Products {
 
     return products;
     }
+    catch (error) {
+      console.log('error');
+    }
   }
 }
